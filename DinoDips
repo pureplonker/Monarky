@@ -76,7 +76,7 @@
 						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -141,7 +141,7 @@
 						"chancetodrop": 0.95
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -202,7 +202,7 @@
 						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -263,7 +263,7 @@
 						"chancetodrop": 0.8
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -328,7 +328,7 @@
 						"chancetodrop": 0.4
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -389,7 +389,7 @@
 						"chancetodrop": 0.3
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -450,7 +450,7 @@
 						"chancetodrop": 0.3
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -511,7 +511,7 @@
 						"chancetodrop": 0.9
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 7
 			}
 		]
 	}
