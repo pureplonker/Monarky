@@ -89,7 +89,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
+						"dino": "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -198,7 +198,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/IceGriffin/IceGriffin_Character_BP.IceGriffin_Character_BP_C",
+						"dino": "/Game/Fjordur/Dinos/Andrewsarchus/Andrewsarchus_Character_BP.Andrewsarchus_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -337,7 +337,7 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP_C",
+						"dino": "/Game/LostIsland/Dinos/Dinopithecus/Dinopithecus_Character_BP.Dinopithecus_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -389,7 +389,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/ScrapRockGolem/ScrapRockGolem_Character_BP.ScrapRockGolem_Character_BP_C",
+						"dino": "/Game/ClubARK/Dino/ScrapRockGolem/ScrapRockGolem_Character_BP_ClubARK.ScrapRockGolem_Character_BP_ClubARK_C",
 						"chancetodrop": 1
 					},
 					{
@@ -431,6 +431,10 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/CrystalWyvern/CrystalWyvern_Character_BP_WS.CrystalWyvern_Character_BP_WS_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Genesis2/Dinos/TekWyvern/TekWyvern_Character_BP.TekWyvern_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -483,7 +487,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
+						"dino": "/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -512,6 +516,10 @@
 					},
 					{
 						"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Genesis2/Dinos/BiomeVariants/Owl_Character_BP_Eden.Owl_Character_BP_Eden_C",
 						"chancetodrop": 1
 					},
 					{
