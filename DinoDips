@@ -198,6 +198,10 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/IceGriffin/IceGriffin_Character_BP.IceGriffin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
 						"chancetodrop": 1
 					}
@@ -385,6 +389,10 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/ScorchedEarth/Dinos/ScrapRockGolem/ScrapRockGolem_Character_BP.ScrapRockGolem_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
 						"chancetodrop": 1
 					}
@@ -464,6 +472,10 @@
 					},
 					{
 						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
