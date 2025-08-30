@@ -147,7 +147,7 @@
 				"weekforoptions": [
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
-						"chancetodrop": 0.9
+						"chancetodrop": 1
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
@@ -174,10 +174,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Genesis2/Dinos/MilkGlider/MilkGlider_Character_BP.MilkGlider_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -195,10 +191,6 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/Game/Fjordur/Dinos/Andrewsarchus/Andrewsarchus_Character_BP.Andrewsarchus_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -357,10 +349,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/LostIsland/Dinos/Amargasaurus/Amargasaurus_Character_BP.Amargasaurus_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -401,22 +389,6 @@
 			},
 			{
 				"weekforoptions": [
-					{
-						"dino": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
-						"chancetodrop": 1
-					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
 						"chancetodrop": 1
@@ -487,10 +459,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -516,10 +484,6 @@
 					},
 					{
 						"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/Game/Genesis2/Dinos/BiomeVariants/Owl_Character_BP_Eden.Owl_Character_BP_Eden_C",
 						"chancetodrop": 1
 					},
 					{
