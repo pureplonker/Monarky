@@ -10,6 +10,10 @@
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+			"/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
+			"/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
+			"/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
+			"/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
 			"/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
 			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 			"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_DinoCompanion_Character_BP.Doggo_DinoCompanion_Character_BP_C",
@@ -76,7 +80,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -141,7 +145,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -198,7 +202,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -259,7 +263,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -324,7 +328,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -385,7 +389,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
@@ -434,12 +438,16 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
 					{
 						"dino": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -491,11 +499,15 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP'_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 5
 			}
 		]
 	}
