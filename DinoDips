@@ -21,6 +21,9 @@
 			"/Game/Mods/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP_C",
 			"/Game/Mods/SDinoVariants/Variants/Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
 			"/Game/Mods/SDinoVariants/Variants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+			"/Game/Mods/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP_C",
+			"/Game/Mods/SDinoVariants/Variants/S-Maewing/S_Milkglider_Character_BP.S_Milkglider_Character_BP_C",
+			"/Game/Mods/SDinoVariants/Variants/S_Maewing/S_Milkglider_Character_BP.S_Milkglider_Character_BP_C",
 			"/Game/Mods/SDinoVariants/Variants/Maewing/S_Milkglider_Character_BP.S_Milkglider_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
