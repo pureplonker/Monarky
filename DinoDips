@@ -596,10 +596,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Boss/DodoRex/Myths_DodoRex_Character_BP.Myths_DodoRex_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myth_Dread/Myths_Dreadnoughtus_Character_BP.Myths_Dreadnoughtus_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -712,7 +708,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/IoM_Dinos/IoMPandora/ShoulderDragon/Myths_Shoulderdragon_Character_BP.Myths_Shoulderdragon_Character_BP_C",
+						"dino": "/IoM_Dinos/IoMPandora/Myths_ShoulderDragon/Myths_Shoulderdragon_Character_BP.Myths_Shoulderdragon_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
