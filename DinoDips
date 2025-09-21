@@ -519,6 +519,10 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/Game/Mods/SDinoVariants/Variants/Allosaurus/S_Allo_Character_BP.S_Allo_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
 						"chancetodrop": 1
 					},
