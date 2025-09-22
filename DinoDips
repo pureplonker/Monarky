@@ -40,6 +40,22 @@
 						"chancetodrop": 1
 					},
 					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/Paleo/PA_Paleo_Empiro_Character_BP.PA_Paleo_Empiro_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Griffin/Myths_Griffin_Character_BP.Myths_Griffin_Character_BP_C",
 						"chancetodrop": 1
 					},
