@@ -515,167 +515,6 @@
 			{
 				"weekforoptions": [
 					{
-						"dino": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/Game/Mods/SDinoVariants/Variants/Allosaurus/S_Allo_Character_BP.S_Allo_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-BeeQueen/S-Bee_Queen_Character_BP.S-Bee_Queen_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
-						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Allosaurus/Myths_Allo_Character_BP.Myths_Allo_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -925,6 +764,167 @@
 					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Yuty/Myths_Yutyrannus_Character_BP.Myths_Yutyrannus_Character_BP_C",
+						"chancetodrop": 1
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/SDinoVariants/Variants/Allosaurus/S_Allo_Character_BP.S_Allo_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-BeeQueen/S-Bee_Queen_Character_BP.S-Bee_Queen_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
 						"chancetodrop": 1
 					}
 				],
