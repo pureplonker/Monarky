@@ -19,8 +19,6 @@
 			"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_DinoCompanion_Character_BP.Doggo_DinoCompanion_Character_BP_C",
 			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
 			"/IoM_Dinos/IoMPandora/ShoulderDragon/Myths_Shoulderdragon_Character_BP.Myths_Shoulderdragon_Character_BP_C",
-			"/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
-			"/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
 			"/IoM_Dinos/IoMPandora/Myths_Bison/Myths_Bison_Character_BP.Myths_Bison_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
@@ -52,14 +50,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Bat/Myths_Bat_Character_BP.Myths_Bat_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Boa/Myths_Boa_Character_BP.Myths_Boa_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Carcha/Myths_Carcha_Character_BP.Myths_Carcha_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -80,10 +70,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Coel/Myths_Coel_Character_BP.Myths_Coel_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myth_Karkinos/Myths_Crab_Character_BP.Myths_Crab_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -101,10 +87,6 @@
 					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Direbear/Myths_Direbear_Character_BP.Myths_Direbear_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Dodo/Myths_Dodo_Character_BP.Myths_Dodo_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -176,15 +158,7 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Pela/Myths_Pela_Character_BP.Myths_Pela_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Phoenix/Myths_Phoenix_Character_BP.Myths_Phoenix_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/IoM_Dinos/IoMPandora/Myths_Plesio/Myths_Plesiosaur_Character_BP.Myths_Plesiosaur_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
