@@ -18,10 +18,7 @@
 			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 			"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_DinoCompanion_Character_BP.Doggo_DinoCompanion_Character_BP_C",
 			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-			"/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
-			"/IoM_Dinos/IoMPandora/Myths_Griffin/Myths_Griffin_Character_BP.Myths_Griffin_Character_BP_C",
 			"/IoM_Dinos/IoMPandora/ShoulderDragon/Myths_Shoulderdragon_Character_BP.Myths_Shoulderdragon_Character_BP_C",
-			"/IoM_Dinos/IoMPandora/Myths_Cherufe/Myths_Cherufe_Character_BP.Myths_Cherufe_Character_BP_C",
 			"/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
 			"/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
 			"/IoM_Dinos/IoMPandora/Myths_Bison/Myths_Bison_Character_BP.Myths_Bison_Character_BP_C",
@@ -40,6 +37,18 @@
 					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/IoM_Dinos/IoMPandora/Myths_Griffin/Myths_Griffin_Character_BP.Myths_Griffin_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/IoM_Dinos/IoMPandora/Myths_Cherufe/Myths_Cherufe_Character_BP.Myths_Cherufe_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
@@ -85,12 +94,7 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
 						"chancetodrop": 1
@@ -150,12 +154,7 @@
 					{
 						"dino": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
 						"chancetodrop": 1
@@ -207,12 +206,7 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
 						"chancetodrop": 1
@@ -268,12 +262,7 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
 						"chancetodrop": 1
@@ -333,12 +322,7 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
 						"chancetodrop": 1
@@ -390,12 +374,7 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
 						"chancetodrop": 1
@@ -439,12 +418,7 @@
 					{
 						"dino": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
 						"chancetodrop": 1
@@ -508,12 +482,7 @@
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Allosaurus/Myths_Allo_Character_BP.Myths_Allo_Character_BP_C",
 						"chancetodrop": 1
@@ -569,12 +538,7 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Cherufe/Myths_Cherufe_Character_BP.Myths_Cherufe_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Coel/Myths_Coel_Character_BP.Myths_Coel_Character_BP_C",
 						"chancetodrop": 1
@@ -626,12 +590,7 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Golem/Myths_Golem_Character_BP.Myths_Golem_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Griffin/Myths_Griffin_Character_BP.Myths_Griffin_Character_BP_C",
 						"chancetodrop": 1
@@ -683,12 +642,7 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Pela/Myths_Pela_Character_BP.Myths_Pela_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Phoenix/Myths_Phoenix_Character_BP.Myths_Phoenix_Character_BP_C",
 						"chancetodrop": 1
@@ -740,12 +694,7 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Spino/Myths_Spino_Character_BP.Myths_Spino_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myth_Stego/Myths_Stego_Character_BP.Myths_Stego_Character_BP_C",
 						"chancetodrop": 1
@@ -785,12 +734,7 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Yuty/Myths_Yutyrannus_Character_BP.Myths_Yutyrannus_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
 						"chancetodrop": 1
@@ -842,12 +786,7 @@
 					{
 						"dino": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
 						"chancetodrop": 1
@@ -899,12 +838,7 @@
 					{
 						"dino": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
 						"chancetodrop": 1
-					}
-				],
-				"dipstogive": 5
-			},
-			{
-				"weekforoptions": [
+					},
 					{
 						"dino": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
 						"chancetodrop": 1
@@ -958,7 +892,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 50
 			}
 		]
 	}
