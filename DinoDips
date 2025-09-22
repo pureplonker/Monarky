@@ -569,7 +569,12 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Cherufe/Myths_Cherufe_Character_BP.Myths_Cherufe_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Coel/Myths_Coel_Character_BP.Myths_Coel_Character_BP_C",
 						"chancetodrop": 1
@@ -621,7 +626,12 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Golem/Myths_Golem_Character_BP.Myths_Golem_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Griffin/Myths_Griffin_Character_BP.Myths_Griffin_Character_BP_C",
 						"chancetodrop": 1
@@ -673,7 +683,12 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Pela/Myths_Pela_Character_BP.Myths_Pela_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Phoenix/Myths_Phoenix_Character_BP.Myths_Phoenix_Character_BP_C",
 						"chancetodrop": 1
@@ -725,7 +740,12 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Spino/Myths_Spino_Character_BP.Myths_Spino_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myth_Stego/Myths_Stego_Character_BP.Myths_Stego_Character_BP_C",
 						"chancetodrop": 1
@@ -822,7 +842,12 @@
 					{
 						"dino": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
 						"chancetodrop": 1
@@ -874,7 +899,12 @@
 					{
 						"dino": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 5
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
 						"chancetodrop": 1
