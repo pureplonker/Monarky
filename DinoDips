@@ -22,6 +22,10 @@
 			"/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
 			"/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
 			"/IoM_Dinos/IoMPandora/Myths_Bison/Myths_Bison_Character_BP.Myths_Bison_Character_BP_C",
+			"/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C",
+			"/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C",
+			"/PA_Plus_Pack_02/Dinos/Empirosaurus/Paleo/PA_Paleo_Empiro_Character_BP.PA_Paleo_Empiro_Character_BP_C",
+			"/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
@@ -463,10 +467,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Carcha/Myths_Carcha_Character_BP.Myths_Carcha_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -535,10 +535,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Kentro/Myths_Kentro_Character_BP.Myths_Kentro_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -603,10 +599,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/Paleo/PA_Paleo_Empiro_Character_BP.PA_Paleo_Empiro_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Shastasaurus/Myths_Shastasaurus_Character_BP.Myths_Shastasaurus_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -636,10 +628,6 @@
 					},
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Thyla/Myths_Thyla_Character_BP.Myths_Thyla_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
