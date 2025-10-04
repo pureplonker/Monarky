@@ -811,6 +811,127 @@
 					}
 				],
 				"dipstogive": 10
+			},
+			{
+				"weekforoptions": [
+					{
+						"dino": "/MDinos/MQuetzal/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MArgentavis/MArgent_Character_BP_Child.MArgent_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MCat/MCat_Character_BP_Child.MCat_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MCerato/MCerato_Character_BP_ASA_Child.MCerato_Character_BP_ASA_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MCnidaria/MCnidaria_Character_BP_Child.MCnidaria_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MEquus/MEquus_Character_BP_Child.MEquus_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MFasolasuchus/MFasolasuchus_Character_BP_Child.MFasolasuchus_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MIceWyvern/MIceWyvern_Character_BP_Child.MIceWyvern_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MKarkinos/MKarkinos_Character_BP_Child.MKarkinos_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MMaeguana/MMaeguana_Character_BP_Child.MMaeguana_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MMagmasaur/MMagmasaur_Character_BP_Child.MMagmasaur_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MMantis/MMantis_Character_BP_Child.MMantis_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MMegalania/MMegalania_Character_BP_Child.MMegalania_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MMegalodon/MMegalodon_Character_BP_Child.MMegalodon_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MPiranha/MPiranha_Character_BP_Child.MPiranha_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MPteranodon/MPtero_Character_BP_Child.MPtero_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "//MDinos/MRavager/MRavager_Character_BP_Child.MRavager_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MRex/MRex_Character_BP_Child.MRex_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MRhino/MRhino_Character_BP_Child.MRhino_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MRockDrake/MRockDrake_Character_BP_Child.MRockDrake_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MShasta/MShasta_Character_BP_Child.MShasta_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MTapejara/MTapejara_Character_BP_Child.MTapejara_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MTheri/MTheri_Character_BP_Child.MTheri_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MVelo/MVelo_Character_BP_Child.MVelo_Character_BP_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MFireWyvern/MWyvern_Character_BP_Fire_Child.MWyvern_Character_BP_Fire_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MLightningWyvern/MWyvern_Character_BP_Lightning_Child.MWyvern_Character_BP_Lightning_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MPoisonWyvern/MWyvern_Character_BP_Poison_Child.MWyvern_Character_BP_Poison_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MXipha/MXipha_Character_BP_ASA_Child.MXipha_Character_BP_ASA_Child_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/MDinos/MYiLing/MYiLing_Character_BP_Child.MYiLing_Character_BP_Child_C",
+						"chancetodrop": 1
+					}
+				],
+				"dipstogive": 10
 			}
 		]
 	}
