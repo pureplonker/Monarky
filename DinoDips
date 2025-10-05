@@ -831,10 +831,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/MDinos/MCnidaria/MCnidaria_Character_BP_Child.MCnidaria_Character_BP_Child_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/MDinos/MEquus/MEquus_Character_BP_Child.MEquus_Character_BP_Child_C",
 						"chancetodrop": 1
 					},
@@ -868,10 +864,6 @@
 					},
 					{
 						"dino": "/MDinos/MMegalodon/MMegalodon_Character_BP_Child.MMegalodon_Character_BP_Child_C",
-						"chancetodrop": 1
-					},
-					{
-						"dino": "/MDinos/MPiranha/MPiranha_Character_BP_Child.MPiranha_Character_BP_Child_C",
 						"chancetodrop": 1
 					},
 					{
