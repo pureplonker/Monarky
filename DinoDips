@@ -871,10 +871,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "//MDinos/MRavager/MRavager_Character_BP_Child.MRavager_Character_BP_Child_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/MDinos/MRex/MRex_Character_BP_Child.MRex_Character_BP_Child_C",
 						"chancetodrop": 1
 					},
