@@ -27,7 +27,10 @@
 			"/PA_Plus_Pack_02/Dinos/Empirosaurus/Paleo/PA_Paleo_Empiro_Character_BP.PA_Paleo_Empiro_Character_BP_C",
 			"/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP_C",
 			"/Game/LostIsland/Dinos/Sinomacrops/Sinomacrops_Character_BP.Sinomacrops_Character_BP_C",
-			"/monkey_mod/Dinopithecus_Plus_Character_BP.Dinopithecus_Plus_Character_BP_C",
+			"'/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
+			"/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
+			"/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
+			"'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
@@ -343,10 +346,6 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/LostIsland/Dinos/Dinopithecus/Dinopithecus_Character_BP.Dinopithecus_Character_BP_C",
-						"chancetodrop": 1
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -547,7 +546,12 @@
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Mammoth/Myths_Mammoth_Character_Bp_C.Myths_Mammoth_Character_Bp_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 7
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/IoM_Dinos/IoMPandora/Myths_Megalodon/Myths_Megalodon_Character_BP.Myths_Megalodon_Character_BP_C",
 						"chancetodrop": 1
@@ -649,7 +653,7 @@
 						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 10
+				"dipstogive": 7
 			},
 			{
 				"weekforoptions": [
@@ -732,7 +736,12 @@
 					{
 						"dino": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
 						"chancetodrop": 1
-					},
+					}
+				],
+				"dipstogive": 7
+			},
+			{
+				"weekforoptions": [
 					{
 						"dino": "/SDinoVariants/S-Megalodon/S-Megalodon_Character_BP.S-Megalodon_Character_BP_C",
 						"chancetodrop": 1
