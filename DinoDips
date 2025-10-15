@@ -239,7 +239,7 @@
 			"/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
 			"/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
 			"/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
-			"/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
+			"/MDinos/MDreadnoughtus/MDreadnoughtus_Character_BP_Child.MDreadnoughtus_Character_BP_Child_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
