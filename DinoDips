@@ -213,6 +213,11 @@
 			"/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
 			"/MDinos/MQuetzal/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
 			"/MDinos/MArgentavis/MArgent_Character_BP_Child.MArgent_Character_BP_Child_C",
+			"/MDinos/MRex/MRex_Character_BP_Child.MRex_Character_BP_Child_C",
+			"/MDinos/MMaeguana/MMaeguana_Character_BP_Child.MMaeguana_Character_BP_Child_C",
+			"/MDinos/MVelo/MVelo_Character_BP_Child.MVelo_Character_BP_Child_C",
+			"/MDinos/MDread/MDreadnoughtus_Character_BP_Child.MDreadnoughtus_Character_BP_Child_C",
+			"/MDinos/MAnky/MAnkylo_Character_BP_Child.MAnkylo_Character_BP_Child_C",
 			"/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
 		],
 		"weeksarrays": [
